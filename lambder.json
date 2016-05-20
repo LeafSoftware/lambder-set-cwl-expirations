@@ -1,0 +1,7 @@
+{
+  "name": "set-cwl-expirations",
+  "s3_bucket": "oolong-devops",
+  "timeout": 30,
+  "memory": 512,
+  "description": ""
+}
